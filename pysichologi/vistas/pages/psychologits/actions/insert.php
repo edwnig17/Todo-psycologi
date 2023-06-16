@@ -6,7 +6,7 @@ ini_set("display_startup_errors", 1);
 error_reporting(E_ALL);
 ?>
 
-<div class="content-wrapper">
+<div class="">
     <div class="card-header">
       <h3 class="card-title">Añadir Psicologa</h3>
     </div>

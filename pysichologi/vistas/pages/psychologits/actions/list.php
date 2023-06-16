@@ -6,7 +6,7 @@
 ?>
 <div class="card">
               <div class="card-header">
-                <h3 class="card-title">DataTable with default features</h3>
+                <h3 class="card-title">Tabla de Psichologas</h3>
               </div>
               <!-- /.card-header -->
               <div class="card-body">
@@ -14,8 +14,8 @@
                   <thead>
                   <tr>
                     <th>Nombre</th>
-                    <th>Edad</th>
                     <th>Especialidad</th>
+                    <th>Edad</th>
                   </tr>
                   </thead>
                   <tbody>
